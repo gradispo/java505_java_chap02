@@ -173,12 +173,6 @@ public class Question {
 //        영희 >> 보
 //        철수가 이겼습니다.
 
-        System.out.println("가위 바위 보 게임입니다. 가위, 바위, 보 중에서 입력하세요");
-        String game = scan.next();
-
-        if (game == null) {
-            
-        }
 
 
     }
